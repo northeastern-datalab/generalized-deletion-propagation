@@ -1,0 +1,11 @@
+case_no,query_name,domain_size,itr_log_base,itr_log_start,itr_log_end,num_itr,bag_semantics,max_bag_size,linearization_needed
+1,rsa,500,10,0.5,6,500,False,0,True
+2,rsa,1000,10,2,6,500,False,0,True
+3,hc-star-3,500,10,0.5,6,500,False,0,True
+4,hc-star-5,500,10,0.5,6,500,False,0,True
+5,hc-star-3,1000,10,0.5,4,500,False,0,True
+6,hc-star-5,1000,10,0.5,6,500,False,0,True
+7,rays-3,1000,10,0.5,6,500,False,0,True
+8,rays-5,1000,10,0.5,6,500,False,0,True
+9,hc-sj-ucq,1000,10,0.5,6,500,False,0,True
+10,hc-sj-ucq,50,10,0.5,6,500,False,0,True
